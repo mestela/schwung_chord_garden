@@ -13,8 +13,8 @@ A MIDI FX Overtake module for the Schwung framework, inspired by the Telepathic 
 - **Orange**: Octave Up/Down (Column 0, Rows 2 & 3)
 - **Indigo**: Inversion Up/Down (Column 1, Rows 2 & 3)
 - **Blue**: Bass Octave Up/Down (Column 2, Rows 2 & 3)
-- **Red**: Primary Chord Choice (Row 1, Cols 0-3)
-- **Yellow**: Chord Extender (Row 0, Cols 0-3)
+- **Red**: Primary Chord Choice (Row 1, Cols 0-3), dim, minor, major, sus
+- **Yellow**: Chord Extender (Row 0, Cols 0-3), 6, 7, maj7, 9
 - **White**: Chromatic Note triggers (Right 4x4 grid)
 - **Gray**: Dimmed, reserved for future use
 
