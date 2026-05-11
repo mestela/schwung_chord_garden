@@ -1,0 +1,11 @@
+{
+  "id": "schwung-chord-garden",
+  "name": "Chord Garden",
+  "version": "0.1.0",
+  "author": "mestela",
+  "category": "midi_fx",
+  "capabilities": {
+    "component_type": "overtake",
+    "is_overtake": true
+  }
+}
